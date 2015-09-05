@@ -10,6 +10,7 @@
             "^/blog/categories": "blog-index.html",
             "^/docs": "docs-home.html",
             "^/docs/.+?": "docs-page.html",
+            "^/docs/images/": "docs-singlepage.html",
             "^/docs/user-guides/infrastructure/": "user-guide.html",
             "^/docs/rack-cli/": "rack-cli.html",
             "^/sdks": "sdks-home.html",
